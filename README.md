@@ -7,8 +7,6 @@ Natdanai</a></h1>
 
 - 🎓 &nbsp; Studying Computer Science at Kaseart University.
 
-
- 
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
