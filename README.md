@@ -5,7 +5,10 @@ Natdanai</a></h1>
 
 ### 💻 &nbsp;About Me 
 
+- ✨ &nbsp; System Admin at Horwang Pathumthanai School
 - 🎓 &nbsp; Studying Computer Science at Kaseart University.
+- 💙 &nbsp; Co-Founder & Director at KU Tech
+- ⚡&nbsp; Internship Computer Systems and Network Division at Office of Computer Service Kasetsart University
 
 <table border="0" align="center">
 <tr border="0">
