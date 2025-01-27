@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://fb.com/jgogo01" target="blank">
 Natdanai</a></h1>
-<h3 align="center">Full Stack Web Deverloper</h3>
+<h3 align="center">Network Engineer</h3>
 
 
 ### 💻 &nbsp;About Me 
